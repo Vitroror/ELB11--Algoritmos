@@ -1,3 +1,5 @@
+Este repositório consiste em alguns códigos feitos como resposta para alguns questionários feitos na disciplina Algoritmos de Programação (ELB11)
+
 ### Q1
 O código define as constantes matemáticas 𝜋 (PI) e 𝑒 (E) com 15 casas decimais e usa o número imaginário 𝑖. Ele verifica a identidade de Euler (𝑒^𝜋𝑖 + 1 = 0) e exibe o resultado formatado para duas casas decimais.
 
